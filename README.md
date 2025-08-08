@@ -52,3 +52,11 @@ Regional filters (Central, East, South, West) for targeted analysis.
 📊 Forecast future sales behavior
 
 💡 Make data-driven decisions to improve profitability
+
+##DataSet
+<a href="https://github.com/subhaeng/Power-BI-Super-Store-Sales-Dash/blob/main/SuperStore%20Sales%20DataSet.xlsx">DataSet</a>
+##Dashboard
+<img width="1351" height="743" alt="Home" src="https://github.com/user-attachments/assets/d903b002-7119-4a80-8ea7-17df08727ab8" />
+<img width="1299" height="731" alt="Forecast" src="https://github.com/user-attachments/assets/43249477-5e0e-4f89-b797-d74c03db141c" />
+
+
